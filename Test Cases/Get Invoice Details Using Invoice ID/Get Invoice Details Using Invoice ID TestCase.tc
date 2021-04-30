@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Invoice Details Using Invoice ID TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0f25885-6f0e-4079-ae3f-a14d4806bd3d</testCaseGuid>
+</TestCaseEntity>

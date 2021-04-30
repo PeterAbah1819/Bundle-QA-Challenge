@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Company Details From an Invoice ID (Incomplete Invoice ID) TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c12dba54-9843-4fbb-b938-576aeaa7ccf7</testCaseGuid>
+</TestCaseEntity>
